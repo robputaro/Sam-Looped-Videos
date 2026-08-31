@@ -6,7 +6,7 @@
   service_role key in this file.
 */
 window.LOOPED_BACKEND_CONFIG = {
-  supabaseUrl: 'https://YOUR_PROJECT.supabase.co',
-  supabasePublishableKey: 'YOUR_SUPABASE_PUBLISHABLE_OR_ANON_KEY',
+  supabaseUrl: 'https://veofevknvbvqbrmkcexg.supabase.co',
+  supabasePublishableKey: 'sb_publishable_7ii2DADiJIKHQTazC2L5ww_X7Ibxp5r',
   workspaceId: 'looped-content-studio'
 };
